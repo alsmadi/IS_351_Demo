@@ -17,5 +17,7 @@ public class IS_351_Demo {
         // TODO code application logic here
         
         System.out.print("Add your class and make a link to it");
+        System.out.print("Test from a second upload");
+
     }
 }
